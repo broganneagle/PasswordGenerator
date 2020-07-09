@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 
 ## User Story
 
